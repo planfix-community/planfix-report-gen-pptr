@@ -1,5 +1,7 @@
 # Генерация отчётов Planfix при помощи Puppitier
 
+![](https://github.com/planfix-community/planfix-report-gen-pptr/blob/master/sample.gif?raw=true)
+
 Puppitier это nodejs-библиотека для автоматизации действий в браузере Chromium/Firefox. В основном работает в безоконном «headless» режиме и может осуществлять те же дейстивия что и пользователь.
 
 
